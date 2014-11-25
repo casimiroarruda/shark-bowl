@@ -5,7 +5,7 @@ O Fishbowl no modo hard
 ---
 
 > O Shark bowl é um formato de evento/palestra inspirado no Fish Bowl. 
-> Este repositório tem a intenção de documentá-lo afim >de compartilhar-lo com a comunidade.
+> Este repositório tem a intenção de documentá-lo afim de compartilha-lo com a comunidade.
 
 ### O que é
 Um formato para eventos com número reduzido de público.
@@ -27,9 +27,10 @@ echo round("120 minutos" / ("15 participantes" * 1.1)), " minutos para cada vít
   * Uma dica é usar a [ferramenta de listas do random.org](http://www.random.org/lists/)
 * Use um timer sonoro para cada apresentação/discussão
   * [O google pode ser um timer](https://www.google.com.br/?x=#safe=on&q=7+minute+timer) ;)
-* Chame o primeiro "sorteado", anuncie seu tema, se será uma discussão ou apresentação, inicie o timer e deixe a pessoa falar :)
-  * repita este passo até o evento acabar :D
-* Importante: enquanto que perguntas durante uma apresentação sejam até incentivadas, não deixe que o evento torne-se um campo de guerra #fikdik
+* Chame o primeiro "sorteado", inicie o timer e deixe que a pessoa se apresente (caso seja nova no grupo), apresente o tema escolhido e a mitivação pela escolha do tema.
+* Deixe a discussão fluir normalmente a partir dai até que se esgote o tempo do participante
+* Repita os dois últimos passos até o evento acabar :D
+* Importante: perguntas e comentários dos outros participantes durante um tema devem ser incentivadas, mas não permita que o evento torne-se um campo de guerra #fikdik
  
 
 #### Termos de uso:
