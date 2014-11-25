@@ -21,7 +21,7 @@ Que o conteúdo atinja e seja gerado por todos os presentes (ou pelo menos sua m
  *  Em um evento com 15 pessoas, de 2 horas de duração, divida 120 minutos por 15 participantes, acrescentando a cada participante um décimo de seu tempo para a troca de "vítima"
  *  Em php (sim, funciona :P):
 ```php
-echo round("120 minutos" / ("15 participantes" * 1.1)), " minutos para cada v&iacute;tima", PHP_EOL;
+echo round("120 minutos" / ("15 participantes" * 1.1)), " minutos para cada vítima", PHP_EOL;
 ``` 
 * Randomize a lista gerada a partir dos inscritos. 
   * Uma dica é usar a [ferramenta de listas do random.org](http://www.random.org/lists/)
