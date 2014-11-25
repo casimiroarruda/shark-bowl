@@ -32,5 +32,6 @@ echo round("120 minutos" / ("15 participantes" * 1.1)), " minutos para cada vít
 * Importante: enquanto que perguntas durante uma apresentação sejam até incentivadas, não deixe que o evento torne-se um campo de guerra #fikdik
  
 
-#### Licença:
-Use a vontade!
+#### Termos de uso:
+Use a vontade! 
+Se achar um problema, ou tiver uma sugestão, por favor [abra uma Issue](/duodraco/shark-bowl/issues/new) ou envie um Pull Request :D
