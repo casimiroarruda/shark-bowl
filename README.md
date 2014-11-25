@@ -27,7 +27,7 @@ echo round("120 minutos" / ("15 participantes" * 1.1)), " minutos para cada vít
   * Uma dica é usar a [ferramenta de listas do random.org](http://www.random.org/lists/)
 * Use um timer sonoro para cada apresentação/discussão
   * [O google pode ser um timer](https://www.google.com.br/?x=#safe=on&q=7+minute+timer) ;)
-* Chame o primeiro "sorteado", inicie o timer e deixe que a pessoa se apresente (caso seja nova no grupo), apresente o tema escolhido e a mitivação pela escolha do tema.
+* Chame o primeiro "sorteado", inicie o timer e deixe que a pessoa se apresente (caso seja nova no grupo), apresente o tema escolhido e a motivação pela escolha do tema.
 * Deixe a discussão fluir normalmente a partir dai até que se esgote o tempo do participante
 * Repita os dois últimos passos até o evento acabar :D
 * Importante: perguntas e comentários dos outros participantes durante um tema devem ser incentivadas, mas não permita que o evento torne-se um campo de guerra #fikdik
